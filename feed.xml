@@ -12,49 +12,57 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://americafirstpod.github.io/podcast-cover.jpg"/>
 
-    <!-- EPISODES -->
+    <!-- EPISODE 1 -->
     <item>
       <title>TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt1</title>
       <description><![CDATA[
         TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt1
       ]]></description>
-      <pubDate>Tue, 18 Feb 2025 04:29:00 PST</pubDate>
-      <enclosure url="https://americafirstpod/americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt1.mp3"
+      <pubDate>Tue, 18 Feb 2025 04:29:00 GMT</pubDate>
+      <enclosure url="https://americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt1.mp3"
                  length="1818"
                  type="audio/mpeg"/>
-      <guid>episode1</guid>
+      <guid>episode1593-pt1</guid>
     </item>
-    
+
+    <!-- EPISODE 2 -->
+    <item>
       <title>TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt2</title>
       <description><![CDATA[
         TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt2
       ]]></description>
-      <pubDate>Tue, 18 Feb 2025 04:29:01 PST</pubDate>
-      <enclosure url="https://americafirstpod/americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt2.mp3"
+      <pubDate>Tue, 18 Feb 2025 04:29:01 GMT</pubDate>
+      <enclosure url="https://americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt2.mp3"
                  length="1780"
                  type="audio/mpeg"/>
-      <guid>episode1</guid>
+      <guid>episode1593-pt2</guid>
     </item>
 
-    <title>TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt3</title>
+    <!-- EPISODE 3 -->
+    <item>
+      <title>TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt3</title>
       <description><![CDATA[
         TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt3
       ]]></description>
-      <pubDate>Tue, 18 Feb 2025 04:29:02 PST</pubDate>
-      <enclosure url="https://americafirstpod/americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt3.mp3"
+      <pubDate>Tue, 18 Feb 2025 04:29:02 GMT</pubDate>
+      <enclosure url="https://americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt3.mp3"
                  length="1780"
                  type="audio/mpeg"/>
-      <guid>episode1</guid>
+      <guid>episode1593-pt3</guid>
     </item>
-        <title>TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt4</title>
+
+    <!-- EPISODE 4 -->
+    <item>
+      <title>TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt4</title>
       <description><![CDATA[
         TUCKER DOUBLES DOWN??? BASED Tucker DEFENDS Heroic Groyper Leader | America First Ep. 1593 pt4
       ]]></description>
-      <pubDate>Tue, 18 Feb 2025 04:29:03 PST</pubDate>
-      <enclosure url="https://americafirstpod/americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt4.mp3"
+      <pubDate>Tue, 18 Feb 2025 04:29:03 GMT</pubDate>
+      <enclosure url="https://americafirstpod.github.io/audio/TUCKER%20DOUBLES%20DOWN%3F%3F%3F%20BASED%20Tucker%20DEFENDS%20Heroic%20Groyper%20Leader%20%7C%20America%20First%20Ep.%201593%20pt4.mp3"
                  length="2203"
                  type="audio/mpeg"/>
-      <guid>episode1</guid>
+      <guid>episode1593-pt4</guid>
     </item>
+
   </channel>
 </rss>
