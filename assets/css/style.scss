@@ -6,7 +6,20 @@
 .page-header {
   background-color: #04040A;
   background-image: url('/banner.png');
-  max-height: 227px;
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain; 
+  width: 100%;
+  max-height: 227px;
+
+  display: flex;
+  justify-content: center; 
+}
+
+.page-header::before {
+  content: "";
+  display: block;
+  max-width: 704px;
   width: 100%;
 }
+
