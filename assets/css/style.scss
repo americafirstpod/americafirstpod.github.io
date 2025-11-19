@@ -15,7 +15,9 @@
   background-repeat: no-repeat;
   background-size: contain;
 
-  width: 597px;   /* limit width on desktop */
+  width: 100%;        /* fill screen on mobile */
+  max-width: 704px;   /* limit width on desktop */
+  height: 267px;
   
   margin: 0 auto;     /* center the header on large screens */
 }
