@@ -2,6 +2,16 @@
 layout: default
 ---
 
+<h1>Blog</h1>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%B %d, %Y" }}
+    </li>
+  {% endfor %}
+</ul>
+
+
 <audio controls>
   <source src="https://dn710102.ca.archive.org/0/items/america-first-ep.-1600-epstein-files-released-massie-bill-passes-unanimously-disclosure-imminent/America%20First%20Ep.%201600%20%7C%20EPSTEIN%20FILES%20RELEASED%3F%3F%3F%20Massie%20Bill%20Passes%20UNANIMOUSLY%2C%20Disclosure%20IMMINENT.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
