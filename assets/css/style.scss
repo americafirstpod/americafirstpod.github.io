@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+.page-header-wrapper {
+  background-color: #04040A;   /* full-width background color */
+  width: 100%;
+}
+
 .page-header {
   background-color: #04040A;
   background-image: url('/banner.png');
@@ -12,6 +17,7 @@
 
   width: 100%;        /* fill screen on mobile */
   max-width: 704px;   /* limit width on desktop */
+  height: 100%;
   
   margin: 0 auto;     /* center the header on large screens */
 }
