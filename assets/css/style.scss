@@ -1,1 +1,6 @@
 @import "{{ site.theme }}";
+
+.page-header {
+  background-color: #04040A;
+  background-image: url('/banner.png');;
+}

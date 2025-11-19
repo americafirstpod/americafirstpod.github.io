@@ -1,3 +1,4 @@
-theme: jekyll-cayman
 title: America First Podcast
+theme: jekyll-theme-cayman
 description: Bookmark this page!
+show_downloads: true
