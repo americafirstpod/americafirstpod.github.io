@@ -2,4 +2,8 @@ title: America First Podcast
 theme: jekyll-theme-cayman
 description: Americanism, not Globalism, will be our Credo
 url: "https://americafirstpod.github.io"
-image: ./site_logo.jpg
+image:
+  path: /site_logo.jpg
+  width: 1200
+  height: 630
+  alt: "America First Podcast Logo"
