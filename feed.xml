@@ -13,6 +13,18 @@
     <itunes:image href="https://americafirstpod.github.io/podcast-cover.jpg"/>
 
     <item>
+      <title>America First Ep. 1601 | WORLD JEWRY MEETING??? Shapiro and Bari Weiss Condemn Far Left and Far Right</title>
+      <description><![CDATA[
+        America First Ep. 1601 | WORLD JEWRY MEETING??? Shapiro and Bari Weiss Condemn Far Left and Far Right
+      ]]></description>
+      <pubDate>Thu, 20 Nov 2025 02:17:00 GMT</pubDate>
+      <enclosure url="https://archive.org/download/america-first-ep.-1601-world-jewry-meeting-shapiro-and-bari-weiss-condemn-far-left-and-far-right/America%20First%20Ep.%201601%20%7C%20WORLD%20JEWRY%20MEETING%3F%3F%3F%20Shapiro%20and%20Bari%20Weiss%20Condemn%20Far%20Left%20and%20Far%20Right.mp3"
+                 length="9352"
+                 type="audio/mpeg"/>
+      <guid>episode1601</guid>
+    </item>
+
+    <item>
       <title>America First Ep. 1600 | EPSTEIN FILES RELEASED??? Massie Bill Passes UNANIMOUSLY, Disclosure IMMINENT</title>
       <description><![CDATA[
         America First Ep. 1600 | EPSTEIN FILES RELEASED??? Massie Bill Passes UNANIMOUSLY, Disclosure IMMINENT
@@ -34,18 +46,6 @@
                  length="7062"
                  type="audio/mpeg"/>
       <guid>episode1599</guid>
-    </item>
-
-    <item>
-      <title>America First Ep. 1598 | TRUMP DISAVOWS MTG??? Marjorie Greene EXILED From MAGA Movement</title>
-      <description><![CDATA[
-        America First Ep. 1598 | TRUMP DISAVOWS MTG??? Marjorie Greene EXILED From MAGA Movement
-      ]]></description>
-      <pubDate>Sat, 15 Nov 2025 02:17:00 GMT</pubDate>
-      <enclosure url="https://archive.org/download/america-first-ep.-1598-trump-disavows-mtg-marjorie-greene-exiled-from-maga-movement/America%20First%20Ep.%201598%20%7C%20TRUMP%20DISAVOWS%20MTG%3F%3F%3F%20Marjorie%20Greene%20EXILED%20From%20MAGA%20Movement.mp3"
-                 length="8696"
-                 type="audio/mpeg"/>
-      <guid>episode1598</guid>
     </item>
        
   </channel>
