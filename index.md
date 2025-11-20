@@ -33,3 +33,6 @@ layout: default
     Your browser does not support the audio element.
   </audio>
 </div>
+
+<h3>For more episodes:</h3>
+<a href="https://rumble.com/c/nickjfuentes?e9s=src_v1_cbl" class="btn">Visit Nick's Rumble</a> or <a href="https://americafirst.plus/" class="btn">Visit americafirst.plus</a>
