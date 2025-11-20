@@ -13,7 +13,7 @@ layout: default
 <div style="border: 2px solid #000; padding: 10px; margin-bottom: 20px; border-radius: 5px;">
   <h4>America First Ep. 1601 | WORLD JEWRY MEETING??? Shapiro and Bari Weiss Condemn Far Left and Far Right</h4>
   <audio controls>
-    <source src="https://archive.org/download/america-first-ep.-1601-world-jewry-meeting-shapiro-and-bari-weiss-condemn-far-left-and-far-right/America%20First%20Ep.%201601%20%7C%20WORLD%20JEWRY%20MEETING%3F%3F%3F%20Shapiro%20and%20Bari%20Weiss%20Condemn%20Far%20Left%20and%20Far%20Right.mp3">
+    <source src="https://archive.org/download/america-first-ep.-1601-world-jewry-meeting-shapiro-and-bari-weiss-condemn-far-left-and-far-right/America%20First%20Ep.%201601%20%7C%20WORLD%20JEWRY%20MEETING%3F%3F%3F%20Shapiro%20and%20Bari%20Weiss%20Condemn%20Far%20Left%20and%20Far%20Right.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 </div>
