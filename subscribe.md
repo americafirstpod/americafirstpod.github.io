@@ -3,6 +3,10 @@ layout: default
 title: Subscribe to the America First Podcast
 description: Instructions to subscribe to the America First Podcast
 ---
+ <head>
+    <link rel="icon" type="image/png" href="./favicon.png">
+ </head>
+
 
 ## To Listen to America First on your Favorite Podcasting App:
 
