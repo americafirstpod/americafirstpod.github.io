@@ -30,7 +30,7 @@ permalink: /feed2.xml
       {% if post.audio %}
       <item>
         <title>{{ post.title | escape }}</title>
-        <description>{{ post.excerpt | strip_html | escape }}</description>
+        <description>America First with Nicholas J. Fuentes, Podcast</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ site.url }}{{ post.url }}</link>
         <guid>{{ site.url }}{{ post.url }}</guid>
