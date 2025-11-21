@@ -14,14 +14,14 @@ permalink: /feed2.xml
     <title>{{ site.title | escape }}</title>
     <link>{{ site.url }}</link>
     <language>en-us</language>
-    <description>{{ site.description | escape }}</description>
+    <description>{{ site.podcast_description | escape }}</description>
 
     <!-- Atom self-link -->
     <atom:link href="{{ site.url }}/feed2.xml" rel="self" type="application/rss+xml"/>
 
     <!-- iTunes-specific metadata -->
     <itunes:author>{{ site.author.name }}</itunes:author>
-    <itunes:summary>{{ site.description | escape }}</itunes:summary>
+    <itunes:summary>{{ site.podcast_description | escape }}</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="{{ site.url }}/podcast-cover.jpg" />
 
