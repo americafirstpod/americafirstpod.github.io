@@ -12,7 +12,7 @@ layout: default
 
 {% for post in site.posts %}
   <div style="border: 2px solid #000; padding: 10px; margin-bottom: 20px; border-radius: 5px;">
-    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <h3>{{ post.title }}</h3>
 
     {% if post.audio %}
     <audio controls>
@@ -20,8 +20,6 @@ layout: default
     </audio>
     {% endif %}
 
-    <!-- Optional excerpt -->
-    <p>{{ post.excerpt }}</p>
   </div>
 {% endfor %}
 
