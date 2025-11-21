@@ -10,8 +10,7 @@ description: Instructions to subscribe to the America First Podcast
 1.  <button style="color: rgba(0, 0, 255, 1); background-color: rgba(0, 0, 0, 1); border-color: rgba(0, 0, 0, 0); margin-bottom: 0; margin-left: 0; padding: 0.1rem; margin-top: 0;" id="copyButton" data-text="https://americafirstpod.github.io/feed.xml"><u>Click here</u></button> to copy the RSS feed link
 2.  Open your preferred podcasting app
 3.  Paste the RSS feed link in the RSS feed subscription feature
-<br>
-<br>
+You’re now subscribed to the America First Podcast, and it will appear alongside your other podcast subscriptions.
 <br>
 <br>
 <br>
