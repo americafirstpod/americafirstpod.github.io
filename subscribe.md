@@ -16,7 +16,7 @@ description: Instructions to subscribe to the America First Podcast
 <br>
 <br>
 ### FAQs:
-*  RSS link subscription is available on most major podcast apps, including Apple Podcasts, Overcast, and Pocket Casts.
+*  RSS link subscription is available on most major podcast apps, including **Apple Podcasts, YouTube Music, Overcast, Pocket Casts, and more!**
 *  RSS link subscription is not possible on Spotify.
 *  The raw RSS feed is available [here](./feed.xml).
 
