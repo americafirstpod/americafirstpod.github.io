@@ -8,7 +8,7 @@ layout: default
 </div>
 
 
-<h1>Episodes</h1>
+<h1>Last 5 Episodes</h1>
 
 {% for post in site.posts %}
   <div style="border: 2px solid #000; padding: 10px; margin-bottom: 20px; border-radius: 5px;">
